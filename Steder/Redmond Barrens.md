@@ -1,0 +1,4 @@
+- Slum kvarter
+- Faldefærdigt
+- Cyberpunk Christiania
+- Nogle er med i bandemiljøet

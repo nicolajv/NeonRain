@@ -1,0 +1,2 @@
+- Tidligere [[Fixer]] hos [[Aztechnology]]
+- [[Aztechnology]] er ude efter ham, der er bad blood. Men han har undsluppet charges

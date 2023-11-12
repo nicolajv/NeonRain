@@ -1,0 +1,16 @@
+---
+aliases:
+  - Allan Wrench
+  - Mech
+---
+- Rigtige navn [[Mech||Allan Wrench]]
+- Udseende
+    - Dværg
+    - Kraftigt bygget
+    - Sort hår
+    - Kraftigt skæg
+    - Monokl for hans ene øje
+- Arbejder for [[Aztechnology]] som en del af deres sikkerheds teams
+- Studeret på [[Seattle]] Tech University på et scholarship
+- Efter det første møde med gruppen tager han navnet [[Mech]]
+- Skylder [[Ace]] en tjeneste da han sletter hans identitet og hjælper ham med at blive [[Shadowrunner]]

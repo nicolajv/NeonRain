@@ -1,0 +1,2 @@
+- For nyligt hyret af [[Neurolocks]] på trods af hendes kontroversielle natur
+- Hun er kvinden i [[Neurolocks]] videoen
