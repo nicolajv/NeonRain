@@ -1,1 +1,3 @@
-* Bjørneånd der vejleder [[Kodiak]]
+![[_ursa.jpeg]]
+
+- Bjørneånd der vejleder [[Kodiak]]
