@@ -1,5 +1,5 @@
 Område i [[Seattle]]
 
-## Steder i [[Aztechnology]]
+## Steder i [[Auburn]]
 
 - [[Neurolocks]] fabrik

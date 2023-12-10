@@ -1,0 +1,2 @@
+- En bar i [[Seattle]] med neon overalt og et populært Dance Dance Revolution setup
+- Der sker nogle shady ting i baren og [[Ocean]] kender bartenderen [[Big Mike]]

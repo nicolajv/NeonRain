@@ -1,0 +1,2 @@
+- Barn fra [[Redmond Barrens]] som blev eksperimenteret på af [[Aztechnology]] af [[Alara Nightshade]] i deres [[Neurolocks]] fabrik
+- Er blevet til en ghoul af eksperimenterne

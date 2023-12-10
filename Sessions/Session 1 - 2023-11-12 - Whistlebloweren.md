@@ -25,9 +25,9 @@
 - Han beder [[Ocean]] om at få fat i [[Mech||Allan Wrench]]s navn og tager så med det samme afsted med public transportation
 - [[Mech||Allan Wrench]] nægter at give navnet men [[Ocean]] læser hans tanker og sender navnet til [[Ace]] og [[Kodiak]]
 
-## Scene 5: [[Redmond Grove]]
+## Scene 5: [[Red Den]]
 
-- I [[Redmond Barrens]] distriktet har [[Kodiak]] sit tilholdssted [[Redmond Grove]]
+- I [[Redmond Barrens]] distriktet har [[Kodiak]] sit tilholdssted [[Red Den]]
 - Han sidder ved et bål
 - Han modtager [[Ocean]]s besked og tager afsted til [[Retro Grooves]] med public transporation
 
@@ -36,11 +36,10 @@
 - [[Ace]] får [[Mech||Allan Wrench]] til at rykke sin bil og [[Kodiak]] hilser pænt på ham
 - [[Mech||Allan Wrench]] tager navnet [[Mech||Mech]]
 - [[Mech]] forklarer at han har opdaget af [[Aztechnology]] har gang i noget lyssky aktiviterer og viser dem video feedet
-- [[Ace]] downloader videon fra [[Ocean]]s LCD tv og beder [[Mech]] om at slette videon fra sit commlink, man han nægter
+- [[Ace]] downloader videoen fra [[Ocean]]s LCD tv og beder [[Mech]] om at slette videoen fra sit commlink, man han nægter
 - [[Ocean]] overbeviser ham om alligevel at slette videoen
 - [[Mech]] går med på at skylde [[Ace]] en tjeneste til fordel med han hjælper ham med at gå off the grid og blive [[Shadowrunner]]
-- [[Ace]] finder ud af at bygningen videoen er optaget i er i [[Auburn]] , højsandsynligt i fabrikken hvor [[Aztechnology]]s subsidiary [[Neurolocks]] holder til
-
+- [[Ace]] finder ud af at bygningen videoen er optaget i er i [[Auburn]], højest sandsynligt i fabrikken hvor [[Aztechnology]]s datterselvskab [[Neurolocks]] holder til
 - Videoen er en uges tid gammel
 - [[Ocean]] skriver til sin kontakt [[Horatio Grunt]] som er en mid-level corpo insider hos [[Horizon]] og beder ham om at mødes
 - [[Ace]], [[Kodiak]] og [[Mech]] tager [[Mech]]s bil hen til [[Neurolocks]] fabrikken for at scope den out
@@ -77,7 +76,7 @@
 - De lægger en plan om at gennemsøge commlinket, prøve at finde en sikkerhedsansvarlig hos [[Neurolocks]], kidnappe dem og få [[Ocean]] til at impersonate dem så de kan få et møde med [[Alara Nightshade]] og prøve at finde ud af hvem der leakede videoen til [[Mech]]
 - På commlinket finder [[Ace]] en mapsoft over fabrikken og info om en [[James Woo]] fra [[Neurolocks]] er ansvarlig for fysisk sikkerhed onsite
 - Han finder også ud af hvor [[James Woo]] bor i [[Bellevue]]
-- Han finder også ud af at fabrikken er delt op i to afdelener; dem der laver hårproduktet og dem der laver de onde eksperimenter
+- Han finder også ud af at fabrikken er delt op i to afdelinger; dem der laver hårproduktet og dem der laver de onde eksperimenter
 
 ## Scene 10: [[James Woo]]s lejlighed
 
@@ -87,4 +86,8 @@
 - [[Ace]] hacker [[James Woo]]s cyberdeck og giver [[Ocean]] admin på det
 - [[Ocean]] får konen til at tro at alt er fint og der er sket intet
 - [[Ocean]] sender en email til [[Alara Nightshade]] som [[James Woo]] og beder om et sikkerhedsmøde i morgen tidlig omkring et muligt sikkerhedsbrug med "prekært videomateriale"
-- [[Kodiak]] efterlader den bevidstløse [[James Woo]] hos [[Old Man Jenkins]] i [[Redmond Grove]]
+- [[Kodiak]] efterlader den bevidstløse [[James Woo]] hos [[Old Man Jenkins]] i [[Red Den]], bundet til en seng
+
+## Karma
+
+- +1

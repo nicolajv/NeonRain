@@ -1,10 +1,14 @@
 **Name:** Andrew Sullivan
 **Alias:** [[Ace]]
 
-**Karma:** 1
+**Karma:** 8
 **Total Karma:** 0
 
 Edge: 5
+
+Nuyen: 6750
+
+Reputation: 1
 
 **Loadede programmer:**
 
@@ -236,7 +240,7 @@ Tess, known in the poker circles as “Wildcard” for her unpredictable playsty
 
 Jamie is a rising star in Horizon’s Public Relations department, known for her knack for turning situations to the corporation’s advantage with minimal resources. She became acquainted with Ace during his poker days, as she was part of the team responsible for promoting poker events and the stars playing in them. When the scandal broke out, Jamie was among the few who suspected that Ace might have been framed, but she lacked the power and resources to do anything about it at the time.
 
-### Frank “Eagle Eye” Thompson
+### [[Frank “Eagle Eye” Thompson]]
 
 - Connection 2
 - Loyalty 2

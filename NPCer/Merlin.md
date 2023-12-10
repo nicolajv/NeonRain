@@ -1,0 +1,1 @@
+- [[Ocean]]s mentor og en mægtig magiker

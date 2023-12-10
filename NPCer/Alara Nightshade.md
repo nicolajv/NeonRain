@@ -1,2 +1,5 @@
+- Elver
+- Meget bleg med hvidt hår og implants i hovedet
+- En eller anden form for cybereyes
 - For nyligt hyret af [[Neurolocks]] på trods af hendes kontroversielle natur
 - Hun er kvinden i [[Neurolocks]] videoen

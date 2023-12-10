@@ -1,9 +1,11 @@
 ![[_ace.jpg]]
 [[Character Sheet]]
 
+
+* Makker med [[Ocean]], [[Kodiak]] og senere [[Mech]]
 * [[Mech]] skylder ham en tjeneste
 
-The name's [[Ace]], and my life's been a wild ride dealt straight from a deck of cards. Born in the depths of [[Seattle]]'s underbelly to a pair of gamblers who lived and breathed poker, I was practically raised at the poker table. I could shuffle before I could talk, and by the time I hit my teens, I was running bluffs better than most could run a mile.
+The name's [[Ace]], and my life's been a wild ride dealt straight from a deck of cards. Born in the depths of Seattle's underbelly to a pair of gamblers who lived and breathed poker, I was practically raised at the poker table. I could shuffle before I could talk, and by the time I hit my teens, I was running bluffs better than most could run a mile.
 
 Life in the slums was no cakewalk, but poker? That was my sanctuary. My skills got sharp, real sharp, and before I knew it, I was the kid making waves in the underground poker scene. But that was just the beginning. [[Horizon]] saw something in me, a spark, a flair for the dramatic. And just like that, I was plucked from the back alleys and thrown under the glitzy lights of the big stage.
 
