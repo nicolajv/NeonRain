@@ -1,0 +1,1 @@
+- Guvernør i [[Seattle]] i et års tid

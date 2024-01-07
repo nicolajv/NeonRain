@@ -59,7 +59,7 @@
 
 - [[Mech]] bliver ringet op af [[Alejandro]] som spørger hvorfor han ikke er på arbejde
 - [[Mech]] lyver og siger at hans onkel er død i weekenden og at det tager hårdt på ham fordi de var meget nære
-- [[Alejandro]] køber løgnen
+- [[Alejandro]] køber løgnen, men siger han skal komme på arbejde i morgen
 - [[Ace]] sender videoen til [[Ocean]] (som er forklædt som [[James Woo]]) fra en throwaway email ved navn boogeyman@temporary.com
 - [[Ocean]] går ind i fabrikken, som er fyldt med arbejdere og det her mystiske [[Neurolocks]] produkt, som ligner sådan noget neon-lysende hår
 - Når [[Ocean]] kommer forbi sikkerheds tjekket er alt [[Aztechnology]] brandet, ikke længere [[Neurolocks]]
@@ -111,8 +111,9 @@
 - Der kommer ti journalister og efter lidt fiks video redigering fra [[Ace]] og en vild salgstale fra [[Ocean]] sælger de videoen for 20 tusind nuyen
 - Gruppen afleverer [[Alara Nightshade]] og videoerne til [[Lone Star]]
 - [[Aztechnology]] lover at de har nedsat en kommision til at lave en intern efterforskning
-- Hvem der har givet videoen remains a mystery...
+- Hvem der har givet videoen til [[Mech]] forbliver et mysterie...
 
 ## Karma
 
 - +5
+- +1 for titlen

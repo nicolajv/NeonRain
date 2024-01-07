@@ -1,0 +1,1 @@
+* Repræsentant for [[Salish-Shidhe Council]] i [[Seattle]]

@@ -1,2 +1,2 @@
-- Tidligere [[Fixer]] hos [[Aztechnology]]
+- Tidligere [[Fixer]] hos [[Aztechnology]] og en af [[Mech||Allan Wrench]]s bekendte
 - [[Aztechnology]] er ude efter ham, der er bad blood. Men han har undsluppet charges

@@ -1,0 +1,3 @@
+- En bevægelse, et af to der eksisterer
+- Ønsker at [[Seattle]] skal blive fri, selvstændig fra [[United Canadian and American States]]
+- Deres modstandergruppe ønsker at [[Seattle]] vil miste alle fordelene ved at være med i [[United Canadian and American States]]

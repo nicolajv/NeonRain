@@ -6,7 +6,7 @@
 
 Edge: 5
 
-Nuyen: 6750
+Nuyen: 9750
 
 Reputation: 1
 
@@ -336,7 +336,7 @@ When doing Matrix searches, gain 1 Edge that is either spent immediately on that
 
 ### Configurator
 
-Store alternate deck configu- ration, swap to it instead of changing two attributes.
+Store alternate deck configuration, swap to it instead of changing two attributes.
 
 ### Edit
 

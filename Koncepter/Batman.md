@@ -1,0 +1,1 @@
+- Batman (først kendt som The Bat-Man, direkte oversat "Flagermusmanden") er en amerikansk tegneserie-figur skabt af tegneren Bob Kane og forfatteren Bill Finger. Batman optrådte første gang i tegneserien Detective Comics 27 fra maj 1939.

@@ -1,0 +1,1 @@
+* Også kendt som SSC

@@ -1,0 +1,2 @@
+- Global virksomhed som opererer de forskellige [[Pan Pacific Hotel]]s
+- Ikke underlagt nogen megacorporation
