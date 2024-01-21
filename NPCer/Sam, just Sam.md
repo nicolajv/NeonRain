@@ -1,0 +1,2 @@
+- En beboer i [[Red Den]]
+- 74 år gammel

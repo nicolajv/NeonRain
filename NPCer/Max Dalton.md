@@ -1,0 +1,3 @@
+- Beboer i [[Red Den]]
+- Tidligere bandemedlem, ork
+- [[Kodiak]]s sikkerhedsgut

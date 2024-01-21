@@ -1,0 +1,2 @@
+- En human-first terrororganisation
+- Blev supported af [[John Abernethy]] da han troede de var [[The Paladin Group]] (som bare var en front for [[Human Nation]])

@@ -1,0 +1,1 @@
+- Blev støttet af [[John Abernethy]] indtil han fandt ud af at de i virkeligheden var en front for [[Human Nation]]

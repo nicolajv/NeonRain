@@ -1,0 +1,2 @@
+- En native american tribe [[Margaret Telestrian]] er en del af
+- En del af [[Salish-Shidhe Council]]

@@ -42,7 +42,7 @@ Reputation: 1
 | Attribute                       | Value    |
 | ------------------------------- | -------- |
 | Essence                         | 0.9      |
-| Initiative                      | 2        |
+| Initiative                      | 10+1d6   |
 | Matrix Initiative (AR)          | 10+1d6   |
 | Matrix Initiative (VR Cold Sim) | 16+1d6   |
 | Matrix Initiative (VR Hot Sim)  | 16+2d6   |
@@ -249,10 +249,10 @@ Frank was a popular commentator for poker tournaments, known for his sharp obser
 
 ## Ranged Weapons
 
-| Weapon               | DV  | Mode  | Close | Near | Far | Extreme | Ammo  | Notes                                                                                   |
-| -------------------- | --- | ----- | ----- | ---- | --- | ------- | ----- | --------------------------------------------------------------------------------------- |
-| Ruger Redhawk        | 3P  | SA/BF | 7     | 10   | 7   | -       | 8(cy) | w/ hidden arm slide, internal smartgun system, 4 speed loaders, 100 explosive rounds    |
-| Ares Viper Slivergun | 4P  | SA/BF | 12    | 8    | 6   | -       | 30(c) | w/ internal smartgun system, con- cealable holster, 4 spare clips, 100 flechette rounds |
+| Weapon               | DV  | Mode  | Close | Near | Far | Extreme | Ammo       | Notes                                                                                   |
+| -------------------- | --- | ----- | ----- | ---- | --- | ------- | ---------- | --------------------------------------------------------------------------------------- |
+| Ruger Redhawk        | 3P  | SA/BF | 7     | 10   | 7   | -       | 8(cy)      | w/ hidden arm slide, internal smartgun system, 4 speed loaders, 100 explosive rounds    |
+| Ares Viper Slivergun | 4P  | SA/BF | 12    | 8    | 6   | -       | 30(c) - 26 | w/ internal smartgun system, con- cealable holster, 4 spare clips, 100 flechette rounds |
 
 ## Armor
 
@@ -274,7 +274,7 @@ Frank was a popular commentator for poker tournaments, known for his sharp obser
 | Item                                       | Rating | Notes                                       |
 | ------------------------------------------ | ------ | ------------------------------------------- |
 | Earbuds                                    | 3      | w/ audio enhancement, select sound filter 2 |
-| White noise generator                      | 6      |
+| White noise generator                      | 6      |                                             |
 | Fake Licenses                              | 4      | Rating 4 augmentations, Rating 4 pistols    |
 | Shiawase Cyber-6                           | 5      | -                                           |
 | Hermes Ikon commlink                       | 5      | -                                           |
@@ -282,7 +282,7 @@ Frank was a popular commentator for poker tournaments, known for his sharp obser
 | Stealth tags (10)                          | 3      | -                                           |
 | Area jammer                                | 6      | -                                           |
 | Respirator                                 | 6      | -                                           |
-| Stim patches (2)                           | -      |
+| Stim patches (2)                           | -      |                                             |
 | Bug scanner                                | -      | -                                           |
 | Tag eraser                                 | -      | -                                           |
 | Micro-transceiver                          | -      | -                                           |

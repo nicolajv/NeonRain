@@ -1,2 +1,3 @@
 - Står for diverse velgørende aktiviteter og er inviteret til [[Corrine Potter]]s topmøde
 - Elver der maintainer en frisure der viser hendes øre tydeligt, hun vil have du skal vide at hun er elver
+- Hendes efternavn er fra [[Telestrian Industries]] corporationen, som hun er CEO for
