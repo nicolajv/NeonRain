@@ -1,3 +1,4 @@
-* Arbejder for [[Ares Macrotechnology]]
-* Deres repræsentant til topmødet
-* Menneske, har medaljer i the Matrix
+- Arbejder for [[Ares Macrotechnology]]
+- Deres repræsentant til topmødet
+- Menneske, har medaljer i the Matrix
+- Prøvede at hyre teamet til at frame [[Karl Derrick]]
