@@ -1,0 +1,1 @@
+- [[Renraku Computer Systems]]s repræsentant til topmødet

@@ -1,0 +1,2 @@
+- Ejer noget land omkring indonesien
+- Inviteret til topmødet

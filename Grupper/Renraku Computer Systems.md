@@ -1,0 +1,1 @@
+- [[Takuto Nakagawa]] er deres repræsentant i topmødet

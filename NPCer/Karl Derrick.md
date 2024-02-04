@@ -1,0 +1,6 @@
+- [[United Canadian and American States]] repræsentant til topmødet
+- I 2068 forlod han Princeton universitet med en baggrund i finans
+- I 2070 blev han gift med [[Cindy Adams]] og de har sammen tre børn, Jack, Finn og Cathy
+- I 2076 gik der rygter om at havde en affære men det blev aldrig bevist og der skete aldrig noget ved det
+- I 2079 blev han taget i ed til at repræsentere Virginias andet distrikt i repræsentanternes hus
+- Han blev valgt på baggrund af at han ville reformere [[United Canadian and American States]] til at pengene gik til folket i stedet for politikerne

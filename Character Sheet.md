@@ -1,7 +1,7 @@
 **Name:** Andrew Sullivan
 **Alias:** [[Ace]]
 
-**Karma:** 8
+**Karma:** 3
 **Total Karma:** 0
 
 Edge: 5
@@ -223,6 +223,13 @@ You have a special knack for efficiently focusing your processing power
 
 - Game Effect:
     - If you spend a Minor Action to prepare and calibrate your available processing power immediately before taking a Matrix Action, add half your Data Processing attribute (round up) as bonus dice on the test. If you do not immediately take a Matrix Action after doing this, the bonus is lost. This quality may only be used by a persona running on a cyberdeck.
+
+### Surgical Strike (Positive)
+
+You have a talent for subtly hacking into hosts.
+
+- Game Effect:
+    - The Overwatch Score increase from having illegal user or admin access to a host occurs once per minute instead of once per combat round.
 
 ## Contacts
 

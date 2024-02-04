@@ -30,7 +30,7 @@
 
 ## Scene 4: Øen
 
-- Ambasaden ligger i hjertet af øen som er blevet naturaliseret
+- Ambassaden ligger i hjertet af øen som er blevet naturaliseret
 - [[Free Seattle]] demonstrationerne finder sted i den modsatte side af øen
 - Der er 1km afstand til ambassaden
 - [[Kodiak]] hidkalder en ånd til at kigge efter ambassaden
@@ -74,3 +74,7 @@
 - [[Ocean]] overtaler [[Margaret Telestrian]] om at de ikke fandt noget ekstra
 - 2000 og 4x SINS til [[Ocean]], 2600 til [[Ace]], [[Kodiak]] og [[Mech]]. "Han fløj vel dronen"
 - [[Ocean]]s børn bliver registreret i skolesystemet
+
+## Karma
+
++5
