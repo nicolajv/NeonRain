@@ -1,1 +1,14 @@
 - [[Renraku Computer Systems]]s repræsentant til topmødet
+- Public info:
+    - [[Renraku Computer Systems]]' "man i [[Seattle]]"
+    - Hans forældre arbejdede også for [[Renraku Computer Systems]]
+    - Har gået på universitet i Washington
+    - Er gift med [[Margeret Nicholes]]
+        - Run er en elver fra [[Seattle]] med ties til [[Salish-Shidhe tribe]]
+    - Han har supported [[The Underground]] i at blive et distrikt for at øge [[Renraku Computer Systems]]
+    - Har forbindelser til [[Shotozumi-gumi]], et kriminelt syndikat i [[Seattle]], fordi hans personlige advokat er en kaikei der arbejder for dem
+- Private info:
+    - Vil gerne have at [[Seattle]] forbliver i [[United Canadian and American States]]
+    - [[Renraku Computer Systems]] har brugt meget tid og penge på at genopbygge deres image i [[Seattle]] og ser byen som deres kronjuvel
+    - [[Renraku Computer Systems]] har givet penge til en hackergruppe for at hacke [[Seattle]]s regering
+    - Da [[SCIRE incident]] fandt sted da arbejdede han som programmer på [[Deus]] projektet hvor han var direkte med til at torturere en AI til at blive vanvittige

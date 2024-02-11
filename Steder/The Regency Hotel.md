@@ -1,0 +1,2 @@
+- Et forladt hotel i [[Redmond Barrens]]
+- Engang virkelig dyrt

@@ -53,7 +53,7 @@
     - "Major Brenda Reed - En major so"
 - [[Karl Derrick]] skal frames for mordet på en prostitueret.
     - [[Karl Derrick]] er afhængig af [[Bunraku Dolls]]. De er mennesker der er importeret til USA, genetisk modificeret til at kunne modtage personlighedschips og opfører sig som de siger. Chipsne ændrer deres personlighed.
-    - [[Karl Derrick]] besøger normalt en [[Yakuza]] tilholdssted som ligger i [[Touristville]]
+    - [[Karl Derrick]] besøger normalt et yakuza tilholdssted som ligger i [[Touristville]] ved navn [[Bunraku Parleur]]
     - Han er specielt facineret af sådan en lidt Marilyn Monroe type
 - Vi siger hun kan go fuck herself for den pris og et så fucked i hjernen job
 - Vi søger information omkring [[Karl Derrick]]
@@ -66,6 +66,8 @@
 - [[Ace]] tracer drevet om ham selv som er blevet stålet og finder ud af at den bliver holdt i en [[Renraku Computer Systems]] fysisk boks
 
 ## Scene 6: Hos [[Renraku Computer Systems]]
+
+![[_renraku_bank.jpeg]]
 
 - De har et stort område i downtown hvor de har kontorer og en bank hvor de sikrer ting (blandt andet filen om [[Ace]])
 - Vi planlægger at bryde inde i banken og finde [[Ace]]s drev og information omkring [[Takuto Nakagawa]]

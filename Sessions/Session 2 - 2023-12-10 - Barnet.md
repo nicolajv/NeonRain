@@ -3,7 +3,7 @@
 - Det er en våd morgen
 - Vi zoomer ind på [[Red Den]], en monorail løber ved siden af kvarteret. Der står nogle olietønder rundt omkring i kvarteret
 - Vi ser [[Kodiak]] komme ud af hans slidte hjem, døren sidder helt galt og er ved at falde fra hinanden
-- Der står en gruppe af pushere lige ovre på den anden side af [[Red Den]], de sælger [[NuCoke]]
+- Der står en [[The NuCoke Gang||gruppe af pushere]] lige ovre på den anden side af [[Red Den]]; de sælger [[NuCoke]]
 - [[Kodiak]] bliver så træt af at se det, han sukker dybt
 - "Den første er gratis!" - pusherne
 - [[Kodiak]] går over til pusherne, som virkelig har gang i god business

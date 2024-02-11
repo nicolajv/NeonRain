@@ -1,0 +1,2 @@
+- Går i en stor dunjakke
+- En del af [[The NuCoke Gang]]

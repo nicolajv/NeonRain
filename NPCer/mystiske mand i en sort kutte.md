@@ -1,0 +1,2 @@
+- Shaman der fremmanede en ild hånd til at angribe [[Red Den]]
+    - Brændte den ned mens et medlem af [[Humanis Policlub]] var derinde

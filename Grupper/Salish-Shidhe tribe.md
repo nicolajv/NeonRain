@@ -1,0 +1,1 @@
+- Den mest mægtige stat som kontrollere [[Salish-Shidhe Council]]

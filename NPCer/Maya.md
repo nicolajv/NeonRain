@@ -1,0 +1,2 @@
+- Arbejder for [[Crimson Crush]]
+- Løjtnant i [[Crimson Crush]], men ikke en leder

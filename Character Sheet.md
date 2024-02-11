@@ -1,12 +1,11 @@
 **Name:** Andrew Sullivan
 **Alias:** [[Ace]]
 
-**Karma:** 3
-**Total Karma:** 0
+**Karma:** 6
 
 Edge: 5
 
-Nuyen: 9750
+Nuyen: 13050
 
 Reputation: 1
 
@@ -67,6 +66,7 @@ Reputation: 1
 | Firearms    | 3    | Agility         | Heavy Pistols   |
 | Perception  | 1    | Intuition/Logic | Visual          |
 | Con         | 1    | Charisma        | Acting          |
+|             |      |                 |                 |
 
 ### Knowledge skills
 
@@ -194,7 +194,7 @@ Unlike a lot of runners, who have either no SIN or a criminal SIN, you have a le
 You’ve been burned too many times and are always watching closely for signs of betrayal.
 
 - Game Effect:
-    - You may not gain or spend Edge on any Influence (Etiquette or Negotia- tion) and Judge Intentions test. None of your contacts may have a Loyalty rating higher than 3. If you join a magical group, your maximum Loyalty is 3.
+    - You may not gain or spend Edge on any Influence (Etiquette or Negotiation) and Judge Intentions test. None of your contacts may have a Loyalty rating higher than 3. If you join a magical group, your maximum Loyalty is 3.
 
 ### Analytical Mind (Positive)
 
