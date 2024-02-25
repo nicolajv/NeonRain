@@ -1,7 +1,7 @@
 **Name:** Andrew Sullivan
 **Alias:** [[Ace]]
 
-**Karma:** 7
+**Karma:** 11
 
 Edge: 5
 
@@ -256,8 +256,8 @@ Frank was a popular commentator for poker tournaments, known for his sharp obser
 
 ## [[Countdown]]
 
-* Connection 3
-* Loyalty 1
+- Connection 3
+- Loyalty 1
 
 ## Ranged Weapons
 
