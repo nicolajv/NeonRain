@@ -1,11 +1,11 @@
 **Name:** Andrew Sullivan
 **Alias:** [[Ace]]
 
-**Karma:** 6
+**Karma:** 7
 
 Edge: 5
 
-Nuyen: 13050
+Nuyen: 25050
 
 Reputation: 1
 
@@ -253,6 +253,11 @@ Jamie is a rising star in Horizon’s Public Relations department, known for her
 - Loyalty 2
 
 Frank was a popular commentator for poker tournaments, known for his sharp observations and witty commentary. After the scandal, he grew skeptical of the mega-corporations’ influence in sports and entertainment and became an investigative journalist. He has kept in touch with Ace, sharing a mutual interest in uncovering the truth.
+
+## [[Countdown]]
+
+* Connection 3
+* Loyalty 1
 
 ## Ranged Weapons
 

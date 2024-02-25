@@ -1,0 +1,3 @@
+- En drage
+- Har forsøgt at blive borgmester i [[Seattle]]
+- Tidligere mage me d[[Urubia]]

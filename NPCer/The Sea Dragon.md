@@ -1,2 +1,3 @@
 - Ejer noget land omkring indonesien
 - Inviteret til topmødet
+- Hun vil have at Seattle skal være frie

@@ -1,0 +1,3 @@
+- Ligner en ork men er en drake
+- Han er en mand
+- Arbejder for [[The Sea Dragon]]

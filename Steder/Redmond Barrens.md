@@ -1,4 +1,4 @@
-Område i [[Seattle]]
+Distrikt i [[Seattle]]
 
 - Slum kvarter
 - Faldefærdigt

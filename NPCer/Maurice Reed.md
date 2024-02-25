@@ -1,3 +1,6 @@
 - [[Kodiak]]s foster far, tog ham ind da han var ung
 - Han er en ældre herre
 - Han er en blue collar worker, ikke kriminel
+- Bor i [[Puyallup]] distriktet
+- Han er en trold
+- Problemer med hans ene knæet

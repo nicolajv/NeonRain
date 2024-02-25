@@ -79,13 +79,14 @@
 - [[Ace]] går over til nogle kriminelle vagter og siger "jeg skal bruge noget af det gode" og de henviser ham til [[Tony]]
 - [[Ace]] køber to inhalatorer af [[NuCoke]] for 500 nuyen
 - Med sine droner finder [[Mech]] ud af at [[The NuCoke Gang]] opholder sig på 6 sal
-- Der er en mystisk mand med gasmaske og inhalatorer på den sal
+- Der er noget mystisk mand med gasmasker og inhalatorer på den sal
 - Der er et helt laboratorie på det lab, med unisex toiletter og arbejdshold; meget progressivt
 - En sej ork leder ved navn [[Steeljaw]] og en brainy scientist sidder i et af rummene og ser slåskampe på tv, de er begge på [[NuCoke]]
 - [[Ace]] hacker sig ind i the Matrix, angiver at være en high ranking [[Lone Star]] officer og truer [[Steeljaw]] med at de ved hvem han er og hvad han har gang i
 - [[Steeljaw]] flygter med noget af hans crew, vi jagter ham
 - Vi kæmper, vi vinder
 - Vi kidnapper [[Steeljaw]] og tager ham med til en gyde
+- [[Kodiak]] vil slå ham ihjel
 - Vi overbeviser ham om at han kan begynde at arbejde for [[Crimson Crush]] og [[Maya]] går med til det
 - Vi får 4000 nuyen og løftet om information omkring den [[mystiske mand i en sort kutte]]
 

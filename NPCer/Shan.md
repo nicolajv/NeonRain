@@ -1,0 +1,6 @@
+- Ligner en ork men er en drake
+- Hun er en kvinde
+- Arbejder for [[The Sea Dragon]]
+- Hun er født i en by i indonesien i the year of the dragon
+    - En fattig fiskeby
+    - Hende og hendes bror [[Shun]] er tvillinger men blev bortført og opfostret af [[The Sea Dragon]] fra barnsben

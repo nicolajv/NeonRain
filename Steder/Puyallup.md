@@ -1,0 +1,2 @@
+- Distrikt i [[Seattle]]
+- Ligger oven på en semi aktiv vulkan, der er størknet lava i stedet for asfalt
