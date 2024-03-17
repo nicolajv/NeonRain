@@ -66,7 +66,6 @@ Reputation: 1
 | Firearms    | 3    | Agility         | Heavy Pistols   |
 | Perception  | 1    | Intuition/Logic | Visual          |
 | Con         | 1    | Charisma        | Acting          |
-|             |      |                 |                 |
 
 ### Knowledge skills
 

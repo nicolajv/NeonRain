@@ -7,7 +7,7 @@
 - [[Ocean]] siger at vi ikke vil mødes før vi ved hvad prisen er og [[Romeo]] fortæller at prisen starter ved 5000 nuyen
 - [[Ocean]] går med til at mødes ved [[Underworld 93]]
 
-## Scene 2: [[Maurice Reed]]
+## Scene 2: [[Kodiak]] besøger [[Maurice Reed]]
 
 - [[Kodiak]] ankommer til [[Puyallup]] distriktet hvor han vil besøge [[Maurice Reed]]
 - [[Puyallup]] ligger oven på en semi aktiv vulkan, der er størknet lava i stedet for asfalt

@@ -47,7 +47,7 @@
 - [[Romeo]] spørger om gruppen har hørt [[Corrine Potter]]s tale og fortæller at hans klient er interesseret i at vide hvem der kommer til topmødet, og hvad deres holdninger er
 - Hans plan er at hyre [[Ocean]] og holdet til at lave runs for de forskellige grupper der kommer til topmødet og bruge disse runs som muligheder til at lære mere om grupperne
 - [[Margaret Telestrian]] er en af de som er inviteret til topmødet. Hun holder en velgørenhedsfest i morgen på [[Pan Pacific Hotel]], ved hvilken hun vil bede gruppen om at lave et run. [[Romeo]] beder gruppen om at bruge dette job til at lære noget om [[Margaret Telestrian]]
-- [[Romeo]] har tænkt sig at tage alt det han lærer fra [[Ocean]] og gruppens runs og give det til [[hans mystiske arbejdsgiver]]
+- [[Romeo]] har tænkt sig at tage alt det han lærer fra [[Ocean]] og gruppens runs og give det til [[Chuck Bailey|hans mystiske arbejdsgiver]]
 - Gruppen acceptere til gengæld for en løn på 9500 nuyen
     - 3000 nuyen til [[Ocean]], [[Mech]] and [[Ace]], 500 til fælles pulje
 

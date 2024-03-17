@@ -1,0 +1,3 @@
+- En urban legend
+- En corporate puppetmaster der trækker i snore og styrer verden (allegedly)
+- Har power i mange forskellige corporations

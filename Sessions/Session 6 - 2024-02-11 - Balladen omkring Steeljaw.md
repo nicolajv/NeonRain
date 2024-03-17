@@ -24,7 +24,7 @@
         - [[Prophet]]
     - De bliver hyret til at lave det her Shadowrun under The Grand Finals
     - De må ikke kunne spores
-- [[Ace]] prøver at sælge informationen om [[Takuto Nakagawa]] til [[Romeo]], men han vil ikke betale nok på trods af at [[Ace]] truer ham med at [[hans mystiske arbejdsgiver]] nok ikke vil være tilfreds hvis han ikke får informationen
+- [[Ace]] prøver at sælge informationen om [[Takuto Nakagawa]] til [[Romeo]], men han vil ikke betale nok på trods af at [[Ace]] truer ham med at [[Chuck Bailey|hans mystiske arbejdsgiver]] nok ikke vil være tilfreds hvis han ikke får informationen
 
 ## Scene 2: I [[Red Den]]
 

@@ -1,0 +1,2 @@
+- Rådgiver til [[Corrine Potter]]
+- Har betalt [[Romeo]] for information omkring alle topmøde deltagerne

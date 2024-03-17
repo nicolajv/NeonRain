@@ -111,7 +111,7 @@
 - Der kommer ti journalister og efter lidt fiks video redigering fra [[Ace]] og en vild salgstale fra [[Ocean]] sælger de videoen for 20 tusind nuyen
 - Gruppen afleverer [[Alara Nightshade]] og videoerne til [[Lone Star]]
 - [[Aztechnology]] lover at de har nedsat en kommision til at lave en intern efterforskning
-- Hvem der har givet videoen til [[Mech]] forbliver et mysterie...
+- Hvem der har givet videoen til [[Mech]] [[William Edward|forbliver et mysterie]]...
 
 ## Karma
 
