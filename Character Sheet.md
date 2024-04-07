@@ -1,7 +1,7 @@
 **Name:** Andrew Sullivan
 **Alias:** [[Ace]]
 
-**Karma:** 11
+**Karma:** 12
 
 Edge: 5
 
@@ -12,15 +12,15 @@ Reputation: 1
 **Loadede programmer:**
 
 1. Agent (rating 6)
-2. Baby Monitor
-3. Browse
-4. Configurator
-5. Signal Scrubber
-6. Toolbox
-7. Biofeedback Filter
-8. Exploit
-9. Fork
-10. Overclock
+	1. Baby Monitor 
+2. Browse
+3. Configurator
+4. Signal Scrubber
+5. Toolbox
+6. Biofeedback Filter
+7. Exploit
+8. Fork
+9. Overclock
 
 ## Attributes
 

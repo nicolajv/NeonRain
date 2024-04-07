@@ -25,7 +25,7 @@
 - Ansvar:
     - [[Kodiak]] køber en kuffert og et jakkesæt
     - [[Mech]] køber en autopicker og en sikkerhedsuniform fra lufthavnen
-    - [[Ace]] skaffer [[Kodiak]] en billet
+    - [[Ace]] skal [[Kodiak]] adgang til lufthavnen
     - [[Ace]] skal finde ud af lufthavnens sikkerhed
 - [[Ace]] søger rundt og finder en mapsoft over [[Sea-Tac Airport]] og finder ud af at [[Mech]] vil komme igennem en biologisk scanner. Planen bliver at lastbilen der skal hente kufferterne skal hackes så den ikke ankommer til tiden
 - [[Kodiak]] køber et skræddersyet jakkesæt og en stor kuffert
